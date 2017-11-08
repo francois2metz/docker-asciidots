@@ -1,5 +1,7 @@
 # Asciidots on docker
 
+**[Deprecated]**: Use `aaronduino/asciidots` instead of `francois2/asciidots`.
+
 Run [asciidots][] in a docker container.
 
 Run a program `test.dots` in the current directory:
